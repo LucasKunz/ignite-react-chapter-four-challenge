@@ -1,0 +1,110 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "name": "América do Sul",
+      "subtitle": "O maior rio do mundo em extensão está na América do Sul e se chama Amazonas.",
+      "description": "Atravessado pela Linha do Equador e pelo Trópico de Capricórnio, o continente possui a segunda maior cordilheira do mundo na Região Andina que se estende desde a Venezuela até o Chile e a Argentina. No vale do Amazonas encontramos a maior bacia hidrográfica do mundo, e também, a região de maior biodiversidade: a floresta Amazônica. O clima tropical úmido garante alta densidade pluviométrica em toda a região que se situa entre a Linha do Equador e o Trópico de Capricórnio, com algumas exceções devido ao relevo.",
+      "image": "https://images.unsplash.com/photo-1545330785-15356daae141?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1290&q=80",
+      "cities": [
+        {
+          "id": 12,
+          "name": "Rio de Janeiro",
+          "image": "https://www.melhoresdestinos.com.br/wp-content/uploads/2019/08/rio-de-janeiro-capa2019-01.jpg",
+          "country": {
+            "name": "Brasil",
+            "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/640px-Flag_of_Brazil.svg.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Europa",
+      "subtitle": "O continente mais antigo.",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "image": "https://images.unsplash.com/photo-1491557345352-5929e343eb89?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "cities": [
+        {
+          "id": 5,
+          "name": "Londres",
+          "image": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "country": {
+            "name": "Reino Unido",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/255px-Flag_of_the_United_Kingdom_%283-5%29.svg.png"
+          }
+        },
+        {
+          "id": 6,
+          "name": "Paris",
+          "image": "https://www.conexaoparis.com.br/wp-content/uploads/2000/08/paris-torre-eiffel-400x240.jpg",
+          "country": {
+            "name": "França",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png"
+          }
+        },
+        {
+          "id": 7,
+          "name": "Roma",
+          "image": "https://www.melhoresdestinos.com.br/wp-content/uploads/2019/02/passagens-aereas-roma-capa2019-01-820x430.jpg",
+          "country": {
+            "name": "Itália",
+            "flag": "https://bestswimming.swimchannel.net/wp-content/uploads/2020/01/italy-italia-flag-of-italy-italian-flag-flag.jpg"
+          }
+        },
+        {
+          "id": 8,
+          "name": "Amsterdãm",
+          "image": "https://wallpaperaccess.com/full/3110653.jpg",
+          "country": {
+            "name": "Holanda",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/2560px-Flag_of_the_Netherlands.svg.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ásia",
+      "subtitle": "Maior continente do mundo.",
+      "description": "A Ásia é o maior continente em área terrestre do mundo, estando boa parte do continente localizado no Hemisfério Norte. Além de ser o mais extenso, é também o mais populoso, habitando nele cerca de três quintos da população mundial. A Ásia é multicultural, abrigando diversas culturas, etnias, religiões e tradições.",
+      "image": "https://images.unsplash.com/photo-1464817739973-0128fe77aaa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "cities": [
+        {
+          "id": 9,
+          "name": "Hong Kong",
+          "image": "https://www.infoescola.com/wp-content/uploads/2020/08/hong-kong_693729124.jpg",
+          "country": {
+            "name": "China",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+          }
+        },
+        {
+          "id": 10,
+          "name": "Bangkok",
+          "image": "https://media.istockphoto.com/photos/sunrise-with-grand-palace-of-bangkok-thailand-picture-id984661764?k=20&m=984661764&s=612x612&w=0&h=OIA4EqyuoUcy-K04raK-8NHAgDTI3XrmmR7ZUmNiPu4=",
+          "country": {
+            "name": "Thailand",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1200px-Flag_of_Thailand.svg.png"
+          }
+        },
+        {
+          "id": 11,
+          "name": "Macau",
+          "image": "https://igamingbrazil.com/wp-content/uploads/2021/06/Macau-arrecadou-US-400-milhoes-em-receitas-fiscais-no-mes-de-abril-.png",
+          "country": {
+            "name": "China",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "África",
+      "subtitle": "Conhecida pela sua pluralidade étnica e cultural.",
+      "image": "https://images.unsplash.com/photo-1511185307590-3c29c11275ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1167&q=80"
+    }
+  ]
+}
+
